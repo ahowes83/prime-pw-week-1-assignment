@@ -1,5 +1,33 @@
+html {
+  background-color: cornsilk;
+  font-family: sans-serif;
+}
 /* Give your page a fun background color */
 
+header {
+  background-color: mintcream;
+}
+
+footer {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  align-content: center;
+}
+
+p {
+  color: darkslategray;
+  font-style: italic;
+}
+
+img {
+  border: .5em solid;
+}
+
+li {
+  font-family: serif;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
